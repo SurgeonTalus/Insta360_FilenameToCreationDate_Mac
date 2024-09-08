@@ -1,5 +1,5 @@
 
-# Update Video File Timestamps Script fro insta 360
+# Update Video File Timestamps Script for insta 360
 
 This script updates both the **creation date** and **modification date** of video files based on their filenames. It is specifically designed for macOS and works with filenames in the following format from Insta 360:
 
@@ -51,7 +51,7 @@ The script uses `SetFile` to change the **creation date** and `touch` to change 
 
 Given a video file named `VID_20180106_003559_00_006.mp4`, the script will:
 - Update the creation date to `01/06/2018 00:35:59`.
-- Update the modification date to `201801060035.59`.
+- Update the modification date to `01/06/2018 00:35:59`.
 
 ## Notes
 
