@@ -1,7 +1,7 @@
 
-# Update Video File Timestamps Script
+# Update Video File Timestamps Script fro insta 360
 
-This script updates both the **creation date** and **modification date** of video files based on their filenames. It is specifically designed for macOS and works with filenames in the following format:
+This script updates both the **creation date** and **modification date** of video files based on their filenames. It is specifically designed for macOS and works with filenames in the following format from Insta 360:
 
 ```
 VID_YYYYMMDD_HHMMSS_XX_XXX.ext
